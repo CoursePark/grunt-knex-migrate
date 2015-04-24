@@ -1,6 +1,6 @@
 {
   "name": "grunt-knex-migrate",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Grunt task for knex's migrate",
   "main": "index.js",
   "scripts": {
